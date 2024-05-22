@@ -1,0 +1,29 @@
+.about-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    color: #333;
+  }
+  
+  .subtitle {
+    color: #666;
+  }
+  
+  .section-title {
+    margin-top: 20px;
+    color: #444;
+  }
+  
+  .bullet-list {
+    margin-left: 20px;
+  }
+  
+  .bullet-list li {
+    margin-bottom: 5px;
+  }
+  
+  
